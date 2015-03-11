@@ -1,4 +1,4 @@
 # Algorithms
 practicing simple algorithms
 
-1. To seperate 1's and 0's from a mixed array of 0's and 1's.
+1. To find the square of a number without using *,/ or pow(). (Source : geeksforgeeks.com)
